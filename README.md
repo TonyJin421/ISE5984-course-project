@@ -1,17 +1,11 @@
 
-## Course Project
+# Computer Vision Course Project
 
-# Table of Contents
+## Strating 
+To clone this repo:
+```bash
 
-- [Revisiting Reverse Distillation for Anomaly Detection (CVPR 2023)](#revisiting-reverse-distillation-for-anomaly-detection-cvpr-2023)
-- [Libraries](#libraries)
-- [Data Preparations](#data-preparations)
-- [Train](#train)
-- [Evaluation](#evaluation)
-- [Quick Experiments](#quick-experiments)
-- [Citation](#citation)
-- [Contact](#contact)
-- [Acknowledgement](#acknowledgement)
+```
 
 ## Libraries 
 ```       
