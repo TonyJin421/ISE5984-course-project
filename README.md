@@ -1,33 +1,7 @@
 
-## Revisiting Reverse Distillation for Anomaly Detection (CVPR 2023)
+## Course Project
 
-Official code of CVPR 2023 paper: Revisiting Reverse Distillation for Anomaly Detection.
-
-[![Paper](https://img.shields.io/badge/Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
-[![Video presentation](https://img.shields.io/badge/Video-presentation?logo=youtube&labelColor=hsl&color=red
-)](https://www.youtube.com/watch?v=cGRgy2Z0XQo&t=37s)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tientrandinh/Revisiting-Reverse-Distillation/blob/main/main.ipynb)
-
-
-<div align="center">
-
-<br>
-  <img width="100%" alt="AFA flowchart" src="./docs/method_training.png">
-</div>
-
-<!-- ## Abastract -->
-
-&nbsp;&nbsp;&nbsp;&nbsp;The paper proposes the **RD++** approach for anomaly detection by enriching feature compactness and suppressing anomalous signals through a multi-task learning design. For the feature compactness task, RD++ introduces the self-supervised optimal transport method. For the anomalous signal suppression task, RD++ simulates pseudo-abnormal samples with simplex noise and minimizes the reconstruction loss. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;RD++ achieves a **new state-of-the-art benchmark** on the challenging MVTec dataset for both anomaly detection and localization. **More importantly**, when compared to recent SOTA methods, RD++ runs **6.x times faster than PatchCore** and **2.x times faster than CFA**, while introducing a negligible latency compared to RD.
-
-<div align="center">
-
-<br>
-  <img width="100%" alt="AFA flowchart" src="./docs/inference_time.jpeg">
-</div>
-
-
-## Table of Contents
+# Table of Contents
 
 - [Revisiting Reverse Distillation for Anomaly Detection (CVPR 2023)](#revisiting-reverse-distillation-for-anomaly-detection-cvpr-2023)
 - [Libraries](#libraries)
