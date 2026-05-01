@@ -4,7 +4,7 @@
 ## Strating 
 To clone this repo:
 ```bash
-https://github.com/TonyJin421/ISE5984-course-project.git
+git clone https://github.com/TonyJin421/ISE5984-course-project.git
 ```
 
 ## Libraries 
