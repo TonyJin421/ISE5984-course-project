@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparations
-Download MVTEC dataset from [[Link]](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+Download MVTEC dataset from [[Link]](https://www.mvtec.com/company/research/datasets/mvtec-ad).
 
 
 ## Quick Experiments
