@@ -20,7 +20,7 @@ Download MVTEC dataset from [[Link]](https://www.mvtec.com/company/research/data
 
 ## Quick Experiments
 
-Try the Colab here using [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tientrandinh/Revisiting-Reverse-Distillation/blob/main/main.ipynb)
+Try to use [google colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tientrandinh/Revisiting-Reverse-Distillation/blob/main/main.ipynb) to run the code.
 
 
 
